@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\application",
+    "\\application\\config",
+    "\\data",
+    "\\data\\logs",
+    "\\system\\core"
+  ],
+  "SelectedNode": "\\application\\config\\config.php",
+  "PreviewInSolutionExplorer": false
+}
